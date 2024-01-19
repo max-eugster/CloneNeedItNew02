@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="b21d1d4e477b3110acd724e0336d436e" label="Created On Fork" max_length="40" name="x_58872_needit_created_on_fork" type="collection"/>
+    <element db_object_id="b21d1d4e477b3110acd724e0336d436e" label="Created On Fork Changed" max_length="40" name="x_58872_needit_created_on_fork" type="collection">
+        <element label="Created on Origin" max_length="40" name="created_on_origin" type="string"/>
+    </element>
 </database>
